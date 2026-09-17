@@ -34,7 +34,3 @@ print("8" in tuplex)
 
 ## Result
 Thus the program executed successfully.
-
-## Output
-
-## Result
